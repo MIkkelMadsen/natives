@@ -15,6 +15,9 @@ windowIndex:
 1 = Front Left Window  
 2 = Back Right Window  
 3 = Back Left Window  
+512 = Roof Window
+6657 = Front Windshield
+6659 = Back Windshield
 
 Those numbers go on for vehicles that have more than 4 doors with windows.
 
